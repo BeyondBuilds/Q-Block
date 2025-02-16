@@ -1,5 +1,3 @@
----
-
 ### 1. **Why Replace AES on Blockchain?**
 - **Quantum Threat**: AES is considered quantum-resistant for now, but future advances in quantum computing could challenge its effectiveness.
 - **Data Privacy**: A blockchain using quantum encryption would be more secure against quantum attacks (e.g., Grover’s algorithm).
