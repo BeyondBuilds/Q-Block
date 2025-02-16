@@ -1,5 +1,3 @@
----
-
 ### **1. Blockchain Core Development**  
 **Language**:  
 - **C++**: Bitcoin Core is primarily written in C++, so sticking with it allows you to reuse most of the existing infrastructure while modifying it for quantum encryption.  
